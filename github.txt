@@ -1,0 +1,3 @@
+How to ignore files from the repository
+
+github has a limit to add 100mb per repository

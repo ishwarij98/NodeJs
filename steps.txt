@@ -1,0 +1,5 @@
+To start any backend Project: 
+npm init or npm init -y
+
+To install any package:
+npm install packageName or package i packageName
